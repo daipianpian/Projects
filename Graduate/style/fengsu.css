@@ -1,0 +1,23 @@
+#content{width:866px;
+         background:#FFF;}
+#content h3{ width:650px;
+		margin:0 auto;
+		height:40px;
+		line-height:40px;}	
+#content p{ width:650px;
+margin:0 auto;
+line-height:25px;
+display:block;
+color:#666;
+}
+#content p.fenye{
+	width:650px;
+	height:40px;
+	text-align:center;
+	margin-top:15px;
+	text-align:center;
+}
+#content p.fenye a{ color:#666666; text-decoration:none;}
+#content p.fenye a:hover{ color:red; text-decoration:underline;}
+	 
+

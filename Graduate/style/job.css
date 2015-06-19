@@ -1,0 +1,120 @@
+#sidebar{
+	width:266px;
+	height:895px;
+	background:#fff;
+	float:left;
+	border-right:1px solid #ccc;
+	background:url(../images/lx_1.jpg) no-repeat left;
+}
+#content{
+	width:600px;
+	height:895px;
+	float:right;
+	background:#FFF;
+}
+.one{ width:600px;
+      height:210px;
+	  margin-top:10px;
+      background:url(../images/lx_2.jpg) no-repeat center;}
+.one span{ float:left;
+           padding-left:25px;
+           width:180px;
+		   padding-top:23px;
+		   height:157px;
+		   display:block;}
+.one dl{ float:left;
+        margin-left:30px;
+		margin-top:20px;
+		color:#666;}
+.one dl dt{ font-size:14px;
+         height:20px;
+		 line-height:20px;
+        font-weight:bold;
+        }
+.one dl dd{ line-height:17px;}	
+.two{ width:600px;
+      height:210px;
+	  margin-top:10px;
+      background:url(../images/lx_2.jpg) no-repeat center;}	
+.two span{ float:right;
+           width:180px;
+		   padding-right:25px;
+		   padding-top:23px;
+		   height:157px;
+		   display:block;}
+.two h3{ height:25px;
+        line-height:25px;
+		padding-top:10px;
+		padding-left:25px;
+		color:#333;
+		}
+.two p{ line-height:20px;
+        width:360px;
+		padding-left:25px;
+		text-indent:25px;
+		color:#666;}
+.two ul{ width:360px;
+height:46px;
+margin-left:25px;
+}
+.two ul li{ float:left;
+width:120px;
+text-align:center;
+line-height:23px;}
+.two ul li a{ color:#3542B3; text-decoration:none;}
+.two ul li a:hover{color:#C39;}
+.three{ width:600px;
+      height:210px;
+	  margin-top:10px;
+      background:url(../images/lx_2.jpg) no-repeat center;}	
+.three span{ float:left;
+           padding-left:25px;
+           width:180px;
+		   padding-top:23px;
+		   height:157px;
+		   display:block;}						   	  				   	  
+.three h3{ height:25px;
+        line-height:25px;
+		padding-top:10px;
+		padding-left:15px;
+		float:left;
+		color:#333;
+		}
+.three p{ line-height:20px;
+        width:355px;
+		float:right;
+		padding-right:25px;
+		text-indent:25px;
+		color:#666;}
+.three ul{ width:360px;
+height:46px;
+padding-right:20px;
+float:right;
+}
+.three ul li{ float:left;
+width:120px;
+text-align:center;
+line-height:23px;}
+.three ul li a{ color:#3542B3; text-decoration:none;}
+.three ul li a:hover{ color:#C39;}
+.four{ width:600px;
+      height:210px;
+	  margin-top:10px;
+      background:url(../images/lx_2.jpg) no-repeat center;}	
+.four span{ float:right;
+           width:180px;
+		   padding-right:25px;
+		   padding-top:23px;
+		   height:157px;
+		   display:block;}
+.four h3{ height:25px;
+        line-height:25px;
+		padding-top:10px;
+		padding-left:25px;
+		color:#333;
+		}
+.four p{ line-height:20px;
+        width:360px;
+		padding-left:25px;
+		text-indent:25px;
+		color:#666;}		

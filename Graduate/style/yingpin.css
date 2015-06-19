@@ -1,0 +1,41 @@
+#sidebar{
+	width:266px;
+	height:660px;
+	background:#fff;
+	float:left;
+	border-right:1px solid #ccc;
+	background:url(../images/yp_1.jpg) no-repeat left;
+}
+#content{
+	width:600px;
+	height:660px;
+	float:right;
+	background:#FFF;
+}
+#content h3{ width:560px;
+            height:40px;
+			line-height:40px;
+			background:url(../images/yp_2.jpg) no-repeat left bottom;
+			margin-left:20px;
+			color:#666;
+			font-size:14px;}
+#content dl{ width:550px;
+         height:30px;
+		 line-height:30px;
+		 margin-left:20px;
+		 padding-left:10px;
+		 background:url(../images/sousuo4.jpg) no-repeat left center;
+		 border-bottom:1px solid #CCC;}
+#content dl a:hover{ color:#F93;}		 
+#content dl a{color:#666;}		 
+#content dt{ float:left;}
+#content dd{ float:right;}	
+#content p{
+	width:600px;
+	text-align:center;
+	margin-top:15px;
+	text-align:center;
+}
+#content p a{ color:#666666; text-decoration:none;}
+#content p a:hover{ color:red; text-decoration:underline;}
+	 

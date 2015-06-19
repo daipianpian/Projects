@@ -1,0 +1,40 @@
+#sidebar{
+	width:266px;
+	overflow:hidden;
+	background:#fff;
+	float:left;
+	border-right:1px solid #ccc;
+}
+
+#content{
+	width:600px;
+	overflow:hidden;
+	background:#fff;
+	float:right;
+}
+#content h1{
+	font-size:25px;
+	font-family:"微软雅黑";
+	width:550px;
+	height:26px;
+	margin-bottom:20px;
+	
+    margin-top:20px;
+	margin-left:35px;
+	text-align:center;
+}
+#content img{
+	display:block;
+	padding-left:29px;
+}
+#content p{
+	padding-left:35px;
+	padding-right:50px;
+	line-height:180%;
+	text-indent:24px;
+	margin-bottom:20px;
+}
+#content p span{
+	color:#0076B0;
+	}/* CSS Document */
+

@@ -1,0 +1,94 @@
+*{
+	margin:0 auto;
+	padding:0;
+}
+body{
+	width:867px;
+	margin:0 auto;
+	background:#2c383e url(../images/bgindex.jpg) repeat-x;
+	font-size:12px;
+	color:#666;
+}
+ul,li{ list-style:none;}
+img{ border:none;}
+#body1{ background:#fff;}
+#header{
+	width:867px;
+	height:323px;
+}
+.wrapper {width:867px; height:323px; margin:0 auto;}
+.fn-clear { zoom: 1; }
+.box_skitter {position: relative;}
+.box_skitter ul {display: none; }
+.box_skitter .container_skitter {overflow: hidden; position: relative; }
+.box_skitter .image { overflow: hidden; }
+.box_skitter .image img { display: none; }
+.box_skitter .box_clone { position: absolute; top: 0; left: 0; width: 100px;overflow: hidden; display: none; z-index: 20; }
+.box_skitter .box_clone img {position: absolute; top: 0; left: 0; z-index: 20; }
+.box_skitter .prev_button { position: absolute; top: 50%;z-index: 100; width: 57px; height: 62px; 
+overflow: hidden; text-indent: -9999em; margin-top: -25px;background: url(../images/prev.png) no-repeat left top!important;}                                
+.box_skitter .next_button { position: absolute; top: 50%; right: 0px; z-index: 100;width: 57px;  height: 62px; overflow: hidden; 
+text-indent:-9999em;margin-top: -25px; background: url(../images/next.png) no-repeat left top !important; }
+.box_skitter .label_skitter {z-index: 150; position:absolute; display: none; }
+.loading {position: absolute;top: 50%;right: 50%; z-index: 10000; margin: -16px -16px;  color: #fff; text-indent: -9999em; 
+ overflow: hidden;background: url(../images/ajax-loader.gif) no-repeat left top; width:31px; height:31px; }
+#slideshow {width:867px; height:323px;}
+#slideshow ul {display: none;}
+
+#nav{
+	width:867px;
+	height:51px;
+	background:url(../images/linkbg.jpg);
+}
+#nav ul{
+	width:867px;
+	height:51px;
+	line-height:51px;
+}
+#nav ul li{
+	display:inline;
+	text-align:center;
+	height:51px;
+	width:124px;
+	float:left;
+	font-family:"微软雅黑";
+	background:url(../images/linkr.gif) no-repeat right center;
+}
+#nav ul li a:hover{
+	font-size:14px;
+	color:yellow;
+	text-decoration:underline;
+}
+#nav ul li.end{
+	width:123px;
+	background:none;
+}
+#nav ul li a{
+	width:124px;
+	height:51px;
+	color:#FFF;
+	display:inline-block;
+	text-decoration:none;
+}
+#nav ul li.end a{
+	width:123px;
+}
+#box{
+	width:867px;
+	background:#fff;
+}
+#footer{
+	clear:both;
+	width:867px;
+	height:50px;
+	line-height:50px;
+	background:url(../images/bg.gif);
+}
+#footer p{
+	width:867px;
+	text-align:center;
+	color:#ccc;
+	font-family:"微软雅黑";
+	font-size:12px;
+}
+/* CSS Document */

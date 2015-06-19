@@ -1,0 +1,18 @@
+/* CSS Document */
+#centent{width:867px; background:#fff;}
+#sidebar{width:266px;float:left;background:#fff;}
+#right{width:600px;float:left;background:#fff;}
+#right h1{font-size:100%;margin-top:5px;margin-left:15px;font-size:20px;font-family:"微软雅黑";margin-top:10px;
+color:orange;background:url(../images/newsc.gif) no-repeat;}
+#right dl{width:250px;height:181px;float:left;padding-left:29px;padding-top:10px;}
+#right dl dd{width:250px;height:150px;}
+#right dl dd img{display:block;width:250px;height:150px;}
+#right dl dt{margin:0 auto;width:234px;height:30px;line-height:30px;text-align:center;border-bottom:1px solid #f60;
+background:#eee;}
+#right dl a{ color:#666666; text-decoration:none;}
+#right dl:hover a{ color:orange;}
+#right p{width:600px;margin-top:30px; text-align:center;float:left;}
+#right p a{ color:#666666; text-decoration:none;}
+#right p a:hover{ color:red; text-decoration:underline;}
+
+

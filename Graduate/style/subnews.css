@@ -1,0 +1,21 @@
+/* CSS Document */
+#centent{width:867px; background:#fff;}
+#sidebar{width:266px;float:left;border-right:1px solid #ccc;background:#fff;}
+#right{width:600px;float:right;background:#fff;}
+#right h1{font-size:100%;margin-top:5px;margin-left:15px;font-size:20px;font-family:"微软雅黑";margin-top:10px;
+color:orange;background:url(../images/newsc.gif) no-repeat;}
+#news_word{ width:570px;margin-left:15px; margin-top:10px; margin-bottom:15px;}
+#news_word h3{text-align:center; font-weight:normal; font-size:16px;}
+#news_word p{width:570px; text-align:left; text-indent:2em; line-height:20px;}
+#news_word p.gj{width:570px;text-align:center;margin-top:10px;text-align:center; margin-bottom:10px;}
+.gj{width:570px;text-align:center;margin-top:10px;text-align:center; margin-bottom:10px;}
+.gj a{color:#666666; text-decoration:none;}
+.gj a:hover{color:red; text-decoration:underline;}
+#news_pinglun{width:570px;margin-left:15px;}
+#news_pinglun h3{font-family:"微软雅黑";  height:30px; line-height:30px;border-top:1px solid #ccc;font-weight:normal;color:orange;}
+#news_pinglun p{width:570px; text-align:left; text-indent:2em; line-height:20px;}
+p.xiangxi{font-size:16px;font-family:"微软雅黑"; font-weight:bold;float:left; margin-left:15px;}
+textarea.xiangxi{width:475px;height:140px; float:left; margin-top:-16px; margin-left:90px; margin-bottom:30px;}
+p.button{width:600px;height:23px;line-height:28px;display:block;clear:both;text-align:center; margin-bottom:40px;}
+input.tijiao,.chongtian{width:68px;height:23px;line-height:28px;border:1pa solid #666666; clear:both;border:0;
+margin-left:30px;background:url(../images/input.jpg) no-repeat;}

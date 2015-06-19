@@ -1,0 +1,22 @@
+#content{width:866px;
+         background:#FFF;
+		 padding-bottom:30px;}
+#content h2{ width:700px;
+             height:40px;
+			 line-height:40px;
+			 margin:0 auto;
+			 text-align:center;}
+#content p{ width:700px;
+		margin:0 auto;
+		line-height:25px;
+		display:block;
+		color:#666;
+		text-indent:20px;
+		}
+#content h3{ width:700px;
+             height:40px;
+			 line-height:40px;
+			 margin:0 auto;
+			 }	
+#content span{ font-weight:bold;}			 				
+		 

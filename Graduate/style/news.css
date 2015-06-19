@@ -1,0 +1,58 @@
+/* CSS Document */
+#sidebar{
+	width:266px;
+	height:750px;
+	background:url(../images/sidebar00.jpg) no-repeat;
+	float:left;
+	border-right:1px solid #ccc;
+}
+
+#right{
+	width:600px;
+	height:750px;
+	float:right;
+	background:#fff;
+}
+#right h1{
+	font-size:100%;
+    margin-top:5px;
+	margin-left:15px;
+	font-size:20px;
+	font-family:"微软雅黑";
+	margin-top:10px;
+	color:orange;
+	background:url(../images/newsc.gif) no-repeat;
+}
+#right ul{
+	width:600px;
+	margin-left:35px;
+	margin-top:6px;
+	line-height:180%;
+}
+#right ul li{
+	width:600px;
+	list-style:none;
+	padding-left:15px;
+	background:url(../images/ico.gif) no-repeat left center;
+}
+#right ul li a{
+	text-decoration:none;
+	color:#666666;
+	font-family:"宋体";
+	font-size:12px;
+}
+#right ul li a:hover
+{
+	color:#f60;
+	text-decoration:underline;
+}
+#right p{
+	width:600px;
+	text-align:center;
+	margin-top:15px;
+	text-align:center;
+}
+#right p a{ color:#666666; text-decoration:none;}
+#right p a:hover{ color:red; text-decoration:underline;}
+
+

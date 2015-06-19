@@ -1,0 +1,39 @@
+#sidebar{width:266px;height:750px;
+	
+	float:left;
+	border-right:1px solid #ccc;
+	background:#fff;
+}
+#sidebar embed{
+	display:block;
+	width:220px;
+	height:200px;
+	margin:0 auto;
+	margin-top:20px;
+}
+#content{
+	width:600px;
+	height:750px;
+	background:#fff;
+	float:right;
+	
+}
+#content h1{height:23px;font-size:16px;background:url(../images/dayi02.jpg) no-repeat left;padding-left:35px;line-height:26px;font-family:"微软雅黑";margin-left:8px;margin-top:8px;}
+#content h1 span{font-size:12px;color:#57B8C8;padding-left:10px;}
+#content #con_son{width:590px;padding:0px 5px;}
+#content h2{width:580px;height:50px; background:url(../images/dayi01.jpg) no-repeat left ;
+padding:10px 0px;margin-left:5px;}
+#content h2 span{ display:block;width:560px; height:50px; color:#fff;text-indent:2em;margin-left:10px; margin-top:5px; font-weight:normal;}
+#content #con_son p{}
+p.bt{background:url(../images/dayi05.jpg) no-repeat left;padding-left:22px;}
+p.Q{line-height:20px;text-indent:21px;padding-top:8px;width:580px;}
+p.A{color:#57B8C8;font-family:"方正黑体";font-weight:500;line-height:20px;text-indent:21px;padding-top:10px;}
+p.riqi{text-align:right;width:580px;}
+p.line{width:580px;height:5px;display:block;background:url(../images/dayi_line.jpg);margin:15px 0;}
+p.xuanze{width:520px;height:15px;background:#f7f7f7;border:1px #ccc solid;padding:10px 0 10px 50px;line-height:15px;margin:15px 0px 20px 7px;}
+p.xuanze span{padding-left:20px;}
+p.xuanze select{width:75px;height:18px;}
+p.xiangxi{font-size:16px;font-family:"微软雅黑"; font-weight:bold;display:block;float:left;}
+textarea.xiangxi{width:500px;height:140px; float:left;margin-bottom:30px;}
+p.button{width:600px;height:23px;display:block;clear:both;text-align:center;}
+input.tijiao,.chongtian{width:68px;height:23px; line-height:26px;background:url(../images/input.jpg) no-repeat;clear:both;border:0;margin-left:30px;}

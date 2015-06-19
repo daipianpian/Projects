@@ -1,0 +1,101 @@
+#centent{width:867px; background:#fff;}
+/*cententtop*/
+#cententtop{width:867px; padding-top:15px;}
+/*cententtop1*/
+#cententtop1{width:290px; height:247px; background:red; float:left;background:#fff;}
+#cententtop1 h2{ width:250px;height:30px; line-height:30px;color:#666666;margin-left:20px;
+font-family:"微软雅黑"; font-weight:normal; font-size:14px;border-bottom:#ccc 1px solid;}
+#cententtop1 h2 span{ color:orange;}
+#cententtop1 ul{margin-left:43px;margin-top:20px;}
+#cententtop1 ul li{height:25px; margin-bottom:20px;}
+#cententtop1 ul li input.text{width:150px;height:25px;line-height:25px;}
+.cententtop1_button{width:62px;height:21px;line-height:21px; margin-left:25px;}
+#cententtop1  h4{ margin-bottom:20px; margin-left:33px;}
+#input1{width:60px;height:21px;color:#999;}
+.code
+{width:60px;height:20px;background:lightblue;font-family:Arial;font-style:italic;color:Red;
+   font-size:14px;border:1px #666 solid; padding:2px 3px;letter-spacing:5px;font-weight:bolder;
+   margin-left:10px;
+}
+ .unchanged
+{width:60px;height:16px;font-size:14px;background:lightblue;
+	 margin-left:10px;border:1px #666 solid;font-family:Arial;padding:2px 3px;
+}
+ h1{padding-left:598px;margin-top:6px; }
+ h1 input{margin-left:15px; border:none;width:50px;height:30px; background:none;font-size:17px;font-weight:bold;color:#FFF;}
+ #password1{margin-left:-4px;width:200px;}
+@charset "UTF-8";
+.passwordRequiredMsg, 
+.passwordInvalidStrengthMsg, 
+.passwordMinCharsMsg,
+.passwordMaxCharsMsg,
+.passwordCustomMsg,
+.passwordValidMsg {display: none;}
+.passwordRequiredState .passwordRequiredMsg,
+.passwordMinCharsState .passwordMinCharsMsg,
+.passwordMaxCharsState .passwordMaxCharsMsg,
+.passwordInvalidStrengthState .passwordInvalidStrengthMsg,
+.passwordCustomState .passwordCustomMsg{display: inline;color: #CC3333;}
+.passwordValidState input, input.passwordValidState {background-color: #B8F5B1;}
+input.passwordRequiredState, .passwordRequiredState input, 
+input.passwordInvalidStrengthState, .passwordInvalidStrengthState input, 
+input.passwordMinCharsState, .passwordMinCharsState input, 
+input.passwordCustomState, .passwordCustomState input, 
+input.passwordMaxCharsState, .passwordMaxCharsState input {background-color: #FF9F9F;}
+.passwordFocusState input, input.passwordFocusState {background-color: #FFFFCC;}
+
+/*cententtop2*/
+#cententtop2{width:395px; height:247px;float:left; border-left:1px solid #ccc;border-right:1px solid #ccc;background:#fff;}
+#cententtop2 h2{ width:355px;height:30px; line-height:30px;color:#666666;margin-left:20px;
+font-family:"微软雅黑"; font-weight:normal; font-size:14px;border-bottom:#ccc 1px solid;}
+#cententtop2 h2 span{ color:orange;}
+#cententtop2 p{width:355px;font-family:"SimSun"; font-size:12px; color:#666666; margin-left:10px; text-indent:2em;
+line-height:18px;margin-left:20px; margin-top:10px;}
+#cententtop2 img{ float:left; margin-right:10px;}
+
+/*cententtop3*/
+#cententtop3{width:180px; height:247px; background:#fff; float:left;}
+#cententtop3 h2{ width:138px;height:30px; line-height:30px;color:#666666;margin-left:20px;
+font-family:"微软雅黑"; font-weight:normal; font-size:14px ;border-bottom:#ccc 1px solid;}
+#cententtop3 h2 span{ color:orange;}
+#cententtop3 ul{width:172px;margin-top:10px; margin-left:20px;}
+#cententtop3 li{width:172px;height:51px;color:#59595a;font-family:"SimSun";font-size:12px;margin-bottom:13px;}
+#cententtop3 li p{height:51px;text-align:left;margin-left:48px;}
+#cententtop3 li p span{font-size:14px;line-height:28px;}
+#cententtop3 li p span span.dpp{font-size:10px;}
+#cententtop3 li.qq{background:url(../images/QQ-icon.png) left center no-repeat;}
+#cententtop3 li.wx{background:url(../images/weixin-icon.png) left center no-repeat;}
+#cententtop3 li.wb{background:url(../images/weibo-icon.png) left center no-repeat;}
+#cententtop3 li a{color:#59595a; text-decoration:none;}
+#cententtop3 li:hover a{color:orange;}
+
+/*cententbottom*/
+#cententbottom{ width:867px;float:left;background:#fff;}
+#cententbottom h2{ width:825px;height:40px; line-height:40px;color:#666666;margin-left:20px;margin-top:15px;
+font-family:"微软雅黑"; font-weight:normal; font-size:14px ;border-top:1px solid #ccc;}
+#cententbottom h2 span{ color:orange;}
+#cententbottom h2 span.more{color:orange; margin-left:681px; font-size:12px;}
+#cententbottom h2 span.more a{color:orange; text-decoration:none;}
+#cententbottom h2 span.more a:hover{color:orange; text-decoration:underline;}
+#cententbottom ul{width:825px; margin-top:5px;}
+#cententbottom ul li{width:825px; height:179px; margin-bottom:20px; margin-left:20px; float:left; background:#FCFCFC;}
+#cententbottom ul li dt{width:308px; height:179px; float:left;}
+#cententbottom ul li dd{float:left; margin-left:18px;}
+#cententbottom ul li dd h3{ font-weight:normal; font-family::"微软雅黑"; font-size:20px; color:#666666; margin-top:22px;}
+#cententbottom ul li dd h3 a{color:#666666; text-decoration:none; color:#666666;}
+#cententbottom ul li dd h3 a:hover{color:orange;}
+.word{width:495px; font-size:14px; line-height:30px; font-family:"宋体"; color:#666666; text-indent:2em; margin-top:7px; margin-bottom:10px;}
+.word span{ font-size:18px; color:red;}
+.date{color:#cccccc; margin-left:368px; font-size:12px; margin-top:-10px;}
+.date span{ margin-right:10px;}
+
+
+
+
+
+
+
+
+
+
+

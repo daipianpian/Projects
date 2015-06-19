@@ -1,0 +1,10 @@
+/* CSS Document */
+#centent{width:867px; background:#fff;}
+#sidebar{width:266px;float:left;background:#fff;}
+#right{width:600px;float:left;background:#fff;}
+#right h1{font-size:100%;margin-top:5px;margin-left:15px;font-size:20px;font-family:"微软雅黑";margin-top:10px;
+color:orange;background:url(../images/newsc.gif) no-repeat;}
+#right h1 span{ font-size:13px; font-weight:normal;}
+.word{ width:570px;margin-left:15px; margin-top:15px;}
+.word img{margin-right:10px;float:left;}
+.word p{text-indent:2em;font-family:"SimSun";font-size:12px;line-height:20px;}
